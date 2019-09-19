@@ -1,0 +1,28 @@
+[
+  {
+    "ItemID": 10000,
+    "ItemName": "item1",
+    "ItemDesc": "这是一把剑",
+    "ItemType": 1,
+    "ItemIcon": "Item1",
+    "ItemBgIcon": "Item1",
+    "ItemCount": 1,
+    "ItemQuality": 1,
+    "ItemOperation": 1
+
+  },
+  {
+    "ItemID": 10001,
+    "ItemName": "item1",
+    "ItemDesc": "这是一把剑",
+    "ItemType": 1,
+    "ItemIcon": "Item1",
+    "ItemBgIcon": "Item1",
+    "ItemCount": 1,
+    "ItemQuality": 1,
+    "ItemOperation": 1
+
+  }
+
+
+]
